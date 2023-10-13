@@ -1,0 +1,10 @@
+{
+"name":"Fileball CompensationIcon", 
+"description":"Emby补充图标", 
+"icons":
+    [
+	{"name":"CurlyMouse", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/CurlyMouse.png"},
+	{"name":"CurlyMouse Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/CurlyMouse_Neon.png"},
+	{"name":"CurlyMouse Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/CurlyMouse_Rainbow.png"}
+    ]
+}
