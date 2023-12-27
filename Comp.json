@@ -14,6 +14,10 @@
 	{"name":"OnedriveCloud", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OnedriveCloud.png"},
 	{"name":"OnedriveCloud Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OnedriveCloud_Neon.png"},
 	{"name":"OnedriveCloud Neon1", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OnedriveCloud_Neon1.png"},
-	{"name":"OnedriveCloud Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OnedriveCloud_Rainbow.png"}
+	{"name":"OnedriveCloud Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OnedriveCloud_Rainbow.png"},
+	{"name":"OpenAI", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OpenAI.png"},
+	{"name":"OpenAI_Gradient", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OpenAI_Gradient.png"},
+	{"name":"OpenAI_Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OpenAI_Neon.png"},
+	{"name":"OpenAI_Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/main/Comp/OpenAI_Rainbow.png"}
     ]
 }
