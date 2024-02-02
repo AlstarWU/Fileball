@@ -1,0 +1,37 @@
+{
+"name":"Fileball CompensationIcon", 
+"description":"Emby补充图标", 
+"icons":
+    [
+	{"name":"CharonTV", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CharonTV.png"},
+	{"name":"CharonTV Aurora", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CharonTV_Aurora.png"},
+	{"name":"CharonTV Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CharonTV_Neon.png"},
+	{"name":"CharonTV Pink", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CharonTV_Pink.png"},
+	{"name":"CharonTV Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CharonTV_Rainbow.png"},
+	{"name":"CurlyMouse", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CurlyMouse.png"},
+	{"name":"CurlyMouse Aurora", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CurlyMouse_Aurora.png"},
+	{"name":"CurlyMouse Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CurlyMouse_Neon.png"},
+	{"name":"CurlyMouse Pink", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CurlyMouse_Pink.png"},
+	{"name":"CurlyMouse Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/CurlyMouse_Rainbow.png"},
+	{"name":"Emby", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Emby.png"},
+	{"name":"Emby Aurora", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Emby_Aurora.png"},
+	{"name":"Emby Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Emby_Neon.png"},
+	{"name":"Emby Pink", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Emby_Pink.png"},
+	{"name":"Emby Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Emby_Rainbow.png"},
+	{"name":"MisakaF", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/MisakaF.png"},
+	{"name":"MisakaF Aurora", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/MisakaF_Aurora.png"},
+	{"name":"MisakaF Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/MisakaF_Neon.png"},
+	{"name":"MisakaF Pink", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/MisakaF_Pink.png"},
+	{"name":"MisakaF Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/MisakaF_Rainbow.png"},
+	{"name":"Onedrive", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Onedrive.png"},
+	{"name":"Onedrive Color", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Onedrive_Color.png"},
+	{"name":"OnedriveCloud", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OnedriveCloud.png"},
+	{"name":"OnedriveCloud Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OnedriveCloud_Neon.png"},
+	{"name":"OnedriveCloud Neon1", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OnedriveCloud_Neon1.png"},
+	{"name":"OnedriveCloud Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OnedriveCloud_Rainbow.png"},
+	{"name":"OpenAI", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI.png"},
+	{"name":"OpenAI_Gradient", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI_Gradient.png"},
+	{"name":"OpenAI_Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI_Neon.png"},
+	{"name":"OpenAI_Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI_Rainbow.png"}
+    ]
+}
