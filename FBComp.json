@@ -70,6 +70,8 @@
 	{"name":"OpenAI", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI.png"},
 	{"name":"OpenAI Gradient", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI_Gradient.png"},
 	{"name":"OpenAI Neon", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI_Neon.png"},
-	{"name":"OpenAI Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI_Rainbow.png"}
+	{"name":"OpenAI Rainbow", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/OpenAI_Rainbow.png"},
+	
+	{"name":"Zox", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/Comp/Zox.png"}
     ]
 }
