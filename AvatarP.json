@@ -1,6 +1,6 @@
 {
-"name":"Fileball AvatarP Icon",
-"description":"Fileball头像图标包",
+"name":"AvatarP",
+"description":"Emby NSFW 头像图标包",
 "icons":
     [
 	{"name":"cccyli", "url":"https://raw.githubusercontent.com/AlstarWU/Fileball/DIY/AvatarP/cccyli.png"},
